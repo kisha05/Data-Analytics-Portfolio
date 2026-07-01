@@ -15,7 +15,8 @@ The project involved analyzing operational data and building dashboards to gener
 
 ## Tools Used
 
-- Power BI
+- Tableau
 - Microsoft Excel
 - JSON
+- Data Analysis
 - Data Visualization
